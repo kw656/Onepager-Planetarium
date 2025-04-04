@@ -1,0 +1,856 @@
+
+@media (max-width: 576px) {
+	body 
+		font-size: 16px;
+		padding: 10px;
+		}
+
+
+
+
+
+.onepager {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.onepager .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 375px;
+  height: 3789px;
+  position: relative;
+}
+
+.onepager .overlap {
+  position: absolute;
+  width: 381px;
+  height: 624px;
+  top: 0;
+  left: 0;
+}
+
+.onepager .bilder {
+  position: absolute;
+  width: 375px;
+  height: 494px;
+  top: 0;
+  left: 0;
+}
+
+.onepager .group {
+  position: absolute;
+  width: 364px;
+  height: 316px;
+  top: 16px;
+  left: 17px;
+}
+
+.onepager .wort-bildmarke {
+  position: absolute;
+  width: 62px;
+  height: 32px;
+  top: 0;
+  left: 0;
+}
+
+.onepager .wort-bildmarke-2 {
+  position: relative;
+  height: 28px;
+}
+
+
+.onepager .text-wrapper {
+  width: 79px;
+  top: 16px;
+  left: 180px;
+  font-family: "Trade Gothic Next LT Pro-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  white-space: nowrap;
+  position:absolute;
+  color: #e60b80;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.onepager .text-wrapper-2 {
+  position: absolute;
+  width: 121px;
+  top: 64px;
+  left: 0;
+  font-family: "Trade Gothic Next LT Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.onepager .text-wrapper-3 {
+  position: absolute;
+  width: 250px;
+  top: 80px;
+  left: 1px;
+  font-family: "Trade Gothic Next LT Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.onepager .text-wrapper-4 {
+  position: absolute;
+  width: 83px;
+  top: 16px;
+  left: 273px;
+  font-family: "Trade Gothic Next LT Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #e60b80;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.onepager .astronaut {
+  position: absolute;
+  width: 144px;
+  height: 184px;
+  top: 132px;
+  left: 205px;
+  object-fit: cover;
+}
+
+.onepager .overlap-wrapper {
+  position: absolute;
+  width: 277px;
+  height: 246px;
+  top: 378px;
+  left: 45px;
+}
+
+.onepager .overlap-group {
+  position: relative;
+  width: 273px;
+  height: 246px;
+}
+
+.onepager .rectangle {
+  width: 260px;
+  height: 216px;
+  top: 0;
+  left: 13px;
+  border-radius: 11px;
+  position: absolute;
+  background-color: #16214e;
+}
+
+.onepager .text-wrapper-5 {
+  position: absolute;
+  width: 115px;
+  top: 21px;
+  left: 51px;
+  font-family: "Trade Gothic Next LT Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.onepager .p {
+  position: absolute;
+  width: 191px;
+  top: 57px;
+  left: 49px;
+  font-family: "Trade Gothic Next LT Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.onepager .planet {
+  width: 72px;
+  height: 72px;
+  top: 174px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.onepager .overlap-2 {
+  position: absolute;
+  width: 448px;
+  height: 1877px;
+  top: 1498px;
+  left: -73px;
+}
+
+.onepager .overlap-3 {
+  position: absolute;
+  width: 448px;
+  height: 1877px;
+  top: 0;
+  left: 0;
+}
+
+.onepager .HG-ihr-besuch {
+  position: absolute;
+  width: 500px;
+  height: 883px;
+  top: 931px;
+  left: 20px;
+}
+
+.onepager .text-wrapper-6 {
+  position: absolute;
+  width: 202px;
+  top: 1120px;
+  left: 160px;
+  font-family: "Trade Gothic Next LT Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #e60b80;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.onepager .text-wrapper-7 {
+  position: absolute;
+  width: 112px;
+  top: 650px;
+  left: 210px;
+  font-family: "Trade Gothic Next LT Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #16214e;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+
+.onepager .text-wrapper-8 {
+  position: absolute;
+  width: 195px;
+  top: 895px;
+  left: 210px;
+  font-family: "Trade Gothic Next LT Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #16214e;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.onepager .text-wrapper-9 {
+  position: absolute;
+  width: 201px;
+  top: 700px;
+  left: 210px;
+  font-family: "Trade Gothic Next LT Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #16214e;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.onepager .gruppe {
+  height: 1px;
+  top: 916px;
+  left: 191px;
+  position: absolute;
+  width: 47px;
+}
+
+.onepager .img {
+  height: 2px;
+  top: -1px;
+  left: 0;
+  position: absolute;
+  width: 47px;
+}
+
+.onepager .text-wrapper-10 {
+  position: absolute;
+  width: 133px;
+  top: 414px;
+  left: 90px;
+  font-family: "Trade Gothic Next LT Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #16214e;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 19px;
+  white-space: nowrap;
+}
+
+.onepager .text-wrapper-11 {
+  position: absolute;
+  width: 195px;
+  top: 443px;
+  left: 91px;
+  font-family: "Trade Gothic Next LT Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #16214e;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.onepager .overlap-group-wrapper {
+  position: absolute;
+  width: 404px;
+  height: 445px;
+  top: 0;
+  left: 0;
+}
+
+.onepager .overlap-group-2 {
+  position: relative;
+  width: 323px;
+  height: 445px;
+  left: 73px;
+}
+
+.onepager .milchstrae {
+  position: absolute;
+  width: 200px;
+  height: 445px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.onepager .text-wrapper-12 {
+  position: absolute;
+  width: 150px;
+  top: 102px;
+  left: 140px;
+  font-family: "Trade Gothic Next LT Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #16214e;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+
+.onepager .text-wrapper-13 {
+  position: absolute;
+  width: 112px;
+  top: 321px;
+  left: 140px;
+  font-family: "Trade Gothic Next LT Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #16214e;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 19px;
+  white-space: nowrap;
+}
+
+.onepager .text-wrapper-14 {
+  width: 172px;
+  top: 48px;
+  left: 140px;
+  font-family: "Trade Gothic Next LT Pro-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 20px;
+  position: absolute;
+  color: #e60b80;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.onepager .text-wrapper-15 {
+  position: absolute;
+  width: 207px;
+  top: 153px;
+  left: 140px;
+  font-family: "Trade Gothic Next LT Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #16214e;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.onepager .gruppe-wrapper {
+  height: 1px;
+  top: 349px;
+  left: 118px;
+  position: absolute;
+  width: 47px;
+}
+
+.onepager .img-wrapper {
+  height: 1px;
+  top: 144px;
+  left: 36px;
+  position: absolute;
+  width: 47px;
+}
+
+.onepager .schwarzes-loch {
+  position: absolute;
+  width: 260px;
+  height: 272px;
+  top: 359px;
+  left: 200px;
+}
+
+.onepager .suche-nach-leben {
+  position: absolute;
+  width: 184px;
+  height: 320px;
+  top: 630px;
+  left: 60px;
+}
+
+.onepager .email-FFFFFF {
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  top: 1463px;
+  left: 238px;
+}
+
+.onepager .group-2 {
+  position: absolute;
+  width: 199px;
+  height: 129px;
+  top: 1175px;
+  left: 163px;
+}
+
+.onepager .overlap-4 {
+  position: absolute;
+  width: 195px;
+  height: 83px;
+  top: 46px;
+  left: 0;
+}
+
+.onepager .text-wrapper-16 {
+  position: absolute;
+  width: 195px;
+  top: 33px;
+  left: 0;
+  font-family: "Trade Gothic Next LT p", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.onepager .text-wrapper-17 {
+  position: absolute;
+  width: 112px;
+  top: 0;
+  left: 45px;
+  font-family: "Trade Gothic Next LT Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+
+.onepager .location-on {
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  top: 0;
+  left: 74px;
+}
+
+.onepager .group-3 {
+  position: absolute;
+  width: 195px;
+  height: 129px;
+  top: 1334px;
+  left: 163px;
+}
+
+.onepager .call-FFFFFF {
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  top: 0;
+  left: 75px;
+}
+
+.onepager .div-wrapper {
+  position: absolute;
+  width: 199px;
+  height: 83px;
+  top: 46px;
+  left: 0;
+}
+
+.onepager .overlap-group-3 {
+  position: relative;
+  width: 195px;
+  height: 83px;
+}
+
+.onepager .group-4 {
+  position: absolute;
+  width: 199px;
+  height: 83px;
+  top: 1509px;
+  left: 163px;
+}
+
+.onepager .text-wrapper-18 {
+  position: absolute;
+  width: 112px;
+  top: 0;
+  left: 40px;
+  font-family: "Trade Gothic Next LT Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+
+.onepager .group-5 {
+  position: absolute;
+  width: 231px;
+  height: 79px;
+  top: 1798px;
+  left: 147px;
+}
+
+.onepager .overlap-5 {
+  position: relative;
+  width: 227px;
+  height: 79px;
+}
+
+.onepager .text-wrapper-19 {
+  color: #16214e;
+  font-size: 16px;
+  position: absolute;
+  width: 120px;
+  top: 0;
+  left: 58px;
+  font-family: "Trade Gothic Next LT Pro-Bold", Helvetica;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+
+.onepager .text-wrapper-20 {
+  position: absolute;
+  width: 227px;
+  top: 31px;
+  left: 0;
+  font-family: "Trade Gothic Next LT Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #16214e;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.onepager .planet-2 {
+  position: absolute;
+  width: 245px;
+  height: 117px;
+  top: 971px;
+  left: 252px;
+  object-fit: cover;
+}
+
+.onepager .astronaut-2 {
+  position: absolute;
+  width: 121px;
+  height: 212px;
+  top: 1588px;
+  left: 304px;
+  object-fit: cover;
+}
+
+.onepager .gruppe-2 {
+  height: 1px;
+  top: 586px;
+  left: 91px;
+  position: absolute;
+  width: 47px;
+}
+
+.onepager .text-wrapper-21 {
+  position: absolute;
+  width: 112px;
+  top: 575px;
+  left: 90px;
+  font-family: "Trade Gothic Next LT Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #16214e;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 19px;
+  white-space: nowrap;
+}
+
+.onepager .overlap-6 {
+  position: absolute;
+  width: 290px;
+  height: 375px;
+  top: 669px;
+  left: 58px;
+}
+
+.onepager .rectangle-2 {
+  width: 260px;
+  height: 354px;
+  top: 0;
+  left: 0;
+  border-radius: 11px;
+  position: absolute;
+  background-color: #16214e;
+}
+
+.onepager .group-6 {
+  position: absolute;
+  width: 254px;
+  height: 348px;
+  top: 27px;
+  left: 36px;
+}
+
+.onepager .overlap-7 {
+  position: absolute;
+  width: 230px;
+  height: 293px;
+  top: 55px;
+  left: 0;
+}
+
+.onepager .text-wrapper-22 {
+  position: absolute;
+  width: 201px;
+  top: 0;
+  left: 0;
+  font-family: "Trade Gothic Next LT Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.onepager .planet-3 {
+  position: absolute;
+  width: 82px;
+  height: 82px;
+  top: 211px;
+  left: 148px;
+  object-fit: cover;
+}
+
+.onepager .element-meter-kuppel {
+  position: absolute;
+  width: 250px;
+  top: 0;
+  left: 0;
+  font-family: "Trade Gothic Next LT Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.onepager .overlap-8 {
+  position: absolute;
+  width: 375px;
+  height: 266px;
+  top: 3532px;
+  left: 0;
+}
+
+.onepager .rectangle-3 {
+  width: 375px;
+  height: 239px;
+  top: 27px;
+  left: 0;
+  position: absolute;
+  background-color: #16214e;
+}
+
+.onepager .text-wrapper-23 {
+  position: absolute;
+  width: 227px;
+  top: 212px;
+  left: 74px;
+  font-family: "Trade Gothic Next LT Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.onepager .text-wrapper-24 {
+  position: absolute;
+  width: 112px;
+  top: 53px;
+  left: 130px;
+  font-family: "Trade Gothic Next LT Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+
+.onepager .fon {
+  position: absolute;
+  width: 227px;
+  top: 74px;
+  left: 74px;
+  font-family: "Trade Gothic Next LT Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.onepager .group-7 {
+  position: absolute;
+  width: 231px;
+  height: 69px;
+  top: 127px;
+  left: 74px;
+}
+
+.onepager .overlap-9 {
+  position: relative;
+  width: 227px;
+  height: 69px;
+}
+
+.onepager .text-wrapper-25 {
+  color: #ffffff;
+  font-size: 14px;
+  position: absolute;
+  width: 112px;
+  top: 0;
+  left: 58px;
+  font-family: "Trade Gothic Next LT Pro-Bold", Helvetica;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+
+.onepager .mittwoch-freitag {
+  position: absolute;
+  width: 227px;
+  top: 27px;
+  left: 0;
+  font-family: "Trade Gothic Next LT Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.onepager .planet-4 {
+  width: 58px;
+  height: 58px;
+  top: 0;
+  left: 26px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.onepager .overlap-10 {
+  position: absolute;
+  width: 227px;
+  height: 91px;
+  top: 3409px;
+  left: 74px;
+}
+
+.onepager .group-8 {
+  position: absolute;
+  width: 286px;
+  height: 321px;
+  top: 1134px;
+  left: 36px;
+}
+
+.onepager .overlap-11 {
+  position: relative;
+  width: 282px;
+  height: 321px;
+}
+
+.onepager .rectangle-4 {
+  width: 260px;
+  height: 281px;
+  top: 0;
+  left: 22px;
+  border-radius: 11px;
+  position: absolute;
+  background-color: #16214e;
+}
+
+.onepager .text-wrapper-26 {
+  position: absolute;
+  width: 185px;
+  top: 26px;
+  left: 58px;
+  font-family: "Trade Gothic Next LT Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.onepager .text-wrapper-27 {
+  position: absolute;
+  width: 195px;
+  top: 61px;
+  left: 58px;
+  font-family: "Trade Gothic Next LT Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.onepager .planet-5 {
+  position: absolute;
+  width: 77px;
+  height: 77px;
+  top: 233px;
+  left: 0;
+  object-fit: cover;
+}
